@@ -4,6 +4,7 @@
 **Group ID:** F25PROJECT188B3  
 **Author:** BC210400872  
 **Supervisor:** Madiha Faqir Hussain
+**GitRepo:** https://github.com/suniamalick/face-mask-detection-py
 
 ---
 
